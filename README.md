@@ -12,6 +12,7 @@
 * [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals) @ *Google* ([certificate](https://coursera.org/share/04e5e347e6008bfc53532cb73daefb89))
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) @ *University of Michigan* ([certificate](https://coursera.org/share/9936a845ef182117b2a94c1792386890))
 * [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) @ *DeepLearning.AI* ([certificate](https://coursera.org/share/311d12263824e14fdcba60e1edf13af5))
+* [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history) @ *University of Michigan* ([certificate](https://coursera.org/share/e8e146c8a148f3e1e04063defe3f8a8c))
 * [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) @ *University of Michigan* ([certificate](https://coursera.org/share/d1ad76b6e48b477a5e707e714c193c92))
 * [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance) @ *University of Michigan* ([certificate](https://coursera.org/share/5fa90e2fe2d29542d2ed529d88183fc7))
 * [Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries) @ *University of Michigan* ([certificate](https://coursera.org/share/651555f45938a8de4ada484ec17f277b))
