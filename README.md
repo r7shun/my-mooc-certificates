@@ -8,6 +8,7 @@
 * [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) @ *Google* (Currently working on)
 
 ## Courses
+* [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user) @ *Google* ([certificate](https://coursera.org/share/9412f941d6b46b368977ce01d7c430e2))
 * [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) @ *Google* ([certificate](https://coursera.org/share/157bf932dbd7971354f37d8280d831ab))
 * [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals) @ *Google* ([certificate](https://coursera.org/share/04e5e347e6008bfc53532cb73daefb89))
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) @ *University of Michigan* ([certificate](https://coursera.org/share/9936a845ef182117b2a94c1792386890))
