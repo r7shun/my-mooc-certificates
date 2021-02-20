@@ -12,6 +12,7 @@
 * [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) @ *Google* ([certificate](https://coursera.org/share/157bf932dbd7971354f37d8280d831ab))
 * [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals) @ *Google* ([certificate](https://coursera.org/share/04e5e347e6008bfc53532cb73daefb89))
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) @ *University of Michigan* ([certificate](https://coursera.org/share/9936a845ef182117b2a94c1792386890))
+* [Microeconomics Principles](https://www.coursera.org/learn/microeconomics) @ *University of Illinois at Urbana-Champaign* ([certificate](https://coursera.org/share/33e600bebdcef627c679373d89b2d891)
 * [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) @ *The University of Edinburgh* ([certificate](https://coursera.org/share/10830dfb19e41c4325073bcfbc984ea3))
 * [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) @ *DeepLearning.AI* ([certificate](https://coursera.org/share/311d12263824e14fdcba60e1edf13af5))
 * [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history) @ *University of Michigan* ([certificate](https://coursera.org/share/e8e146c8a148f3e1e04063defe3f8a8c))
