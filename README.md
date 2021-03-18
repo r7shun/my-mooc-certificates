@@ -6,6 +6,7 @@
 
 - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) @ *University of Michigan* (Currently working on)
   - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) @ *University of Michigan* ([certificate](https://coursera.org/share/9936a845ef182117b2a94c1792386890))
+  - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) @ *University of Michigan* ([certificate](https://coursera.org/share/87d3b9318b7dfbfb2a9b97b4db688afa))
 - [Microeconomics Principles](https://www.coursera.org/learn/microeconomics) @ *University of Illinois at Urbana-Champaign* ([certificate](https://coursera.org/share/33e600bebdcef627c679373d89b2d891))
 - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) @ *The University of Edinburgh* ([certificate](https://coursera.org/share/10830dfb19e41c4325073bcfbc984ea3))
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) @ *DeepLearning.AI* ([certificate](https://coursera.org/share/311d12263824e14fdcba60e1edf13af5))
