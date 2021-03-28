@@ -3,7 +3,7 @@
 
 ## Courses
 * [Machine Learning](https://www.coursera.org/learn/machine-learning) @ *Stanford University* ([certificate](https://coursera.org/share/39de6ba3aea075f324c531d0a1ae469a))
-
+- [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) @ *Yale University* ([certificate](https://coursera.org/share/a1b37bb0fb2f07100a5d3c97f4a04835))
 - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) @ *University of Michigan* (Currently working on)
   - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) @ *University of Michigan* ([certificate](https://coursera.org/share/9936a845ef182117b2a94c1792386890))
   - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) @ *University of Michigan* ([certificate](https://coursera.org/share/87d3b9318b7dfbfb2a9b97b4db688afa))
