@@ -10,6 +10,7 @@
 - [Microeconomics Principles](https://www.coursera.org/learn/microeconomics) @ *University of Illinois at Urbana-Champaign* ([certificate](https://coursera.org/share/33e600bebdcef627c679373d89b2d891))
 - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) @ *The University of Edinburgh* ([certificate](https://coursera.org/share/10830dfb19e41c4325073bcfbc984ea3))
 - [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke) @ *Duke University* ([certificate](https://coursera.org/share/6e2ce84af1b86ca5c182b42f18b2e911))
+- [Cloud Computing Basics (Cloud 101)](https://www.coursera.org/learn/cloud-computing-basics) @ *LearnQuest* ([certificate](https://coursera.org/share/208ee6d635109b02f0c97a40c53adcc7))
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) @ *DeepLearning.AI* ([certificate](https://coursera.org/share/311d12263824e14fdcba60e1edf13af5))
 - [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history) @ *University of Michigan* ([certificate](https://coursera.org/share/e8e146c8a148f3e1e04063defe3f8a8c))
 
