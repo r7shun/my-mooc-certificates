@@ -14,15 +14,17 @@
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) @ *DeepLearning.AI* ([certificate](https://coursera.org/share/311d12263824e14fdcba60e1edf13af5))
 - [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history) @ *University of Michigan* ([certificate](https://coursera.org/share/e8e146c8a148f3e1e04063defe3f8a8c))
 
-- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) @ *Google* (Currently working on)
-  - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user) @ *Google* ([certificate](https://coursera.org/share/9412f941d6b46b368977ce01d7c430e2))
-  - [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) @ *Google* ([certificate](https://coursera.org/share/157bf932dbd7971354f37d8280d831ab))
-  - [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals) @ *Google* ([certificate](https://coursera.org/share/04e5e347e6008bfc53532cb73daefb89))
-  - [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services) @ *Google* ([certificate](https://coursera.org/share/d7daffcadad3e3b05444c9ceed487e8c))
+
 - [Google IT Automation with Python Certificate](https://www.coursera.org/professional-certificates/google-it-automation) @ *Google* (Currently working on)
   - [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) @ *Google* ([certificate](https://coursera.org/share/b75d9105177c579009c79e8d292579c2))
 
 ## Finished Specializations
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) @ *Google* ([certificate](https://coursera.org/share/790aba9a1e6420cccf2caf9feeea3b98))
+  - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user) @ *Google* ([certificate](https://coursera.org/share/9412f941d6b46b368977ce01d7c430e2))
+  - [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) @ *Google* ([certificate](https://coursera.org/share/157bf932dbd7971354f37d8280d831ab))
+  - [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals) @ *Google* ([certificate](https://coursera.org/share/04e5e347e6008bfc53532cb73daefb89))
+  - [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services) @ *Google* ([certificate](https://coursera.org/share/d7daffcadad3e3b05444c9ceed487e8c))
+  - [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security) @ *Google* ([certificate](https://coursera.org/share/80051b999738e6f9596dcf847c7b51ea))
 
 * [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) @ *University of Michigan* ([certificate](https://coursera.org/share/f95d2f2f54e3e916bd73fb30840b4431))
   * [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) @ *University of Michigan* ([certificate](https://coursera.org/share/d1ad76b6e48b477a5e707e714c193c92))
