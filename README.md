@@ -37,6 +37,9 @@
   * [Python Data Structures](https://www.coursera.org/learn/python-data) @ *University of Michigan* ([certificate](https://coursera.org/share/3fc86d75e5cb7c9f2bf1ea08912331ec))
   * [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) @ *University of Michigan* ([certificate](https://coursera.org/share/60113d1e702b84b4141b2b96ab2af3c9))
 
+## Udemy
+  * [The Ultimate MySQL Crash Course 2021](https://www.udemy.com/course/the-ultimate-mysql-crash-course-2021/) Created by *Web Coding* ([certificate](https://www.udemy.com/certificate/UC-1896c5cd-52ee-4e7f-9311-4b85f2af2ba6/))
+
 ## Miscellaneous
 
 * [Compose and Program Music in Python using Earsketch](https://www.coursera.org/projects/compose-program-music-in-python-using-earsketch) @ *Coursera Project Network* ([certificate](https://coursera.org/share/858ee2015c639f0efaa9b786777632db))
