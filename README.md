@@ -8,6 +8,8 @@
 - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) @ *University of Michigan*
   - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) @ *University of Michigan* ([certificate](https://coursera.org/share/9936a845ef182117b2a94c1792386890))
   - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) @ *University of Michigan* ([certificate](https://coursera.org/share/87d3b9318b7dfbfb2a9b97b4db688afa))
+- [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) @ *Hebrew University of Jerusalem* ([certificate](
+https://coursera.org/share/258fe5d33995fcf6d9436da8938070c5))
 - [Microeconomics Principles](https://www.coursera.org/learn/microeconomics) @ *University of Illinois at Urbana-Champaign* ([certificate](https://coursera.org/share/33e600bebdcef627c679373d89b2d891))
 - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) @ *The University of Edinburgh* ([certificate](https://coursera.org/share/10830dfb19e41c4325073bcfbc984ea3))
 - [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke) @ *Duke University* ([certificate](https://coursera.org/share/6e2ce84af1b86ca5c182b42f18b2e911))
